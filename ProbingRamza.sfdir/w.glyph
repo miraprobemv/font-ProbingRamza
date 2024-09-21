@@ -1,0 +1,22 @@
+StartChar: w
+Encoding: 119 119 34
+Width: 710
+Flags: W
+HStem: 142 66<509.529 608.746> 146 45<71.3763 164.319 254.547 352.931> 336 28<269.581 342.596> 440 21G<261.998 325.675> 532 20G<280.325 344.002>
+VStem: 34 33<193.21 255.5> 357.438 69.832<225.368 316.241> 658 7<283.047 288>
+LayerCount: 2
+Fore
+SplineSet
+310 440 m 5x3f
+ 238 469.999023438 l 5
+ 238 477.999023438 l 5
+ 296 552 l 5
+ 368 522.000976562 l 5
+ 368 514.000976562 l 5
+ 310 440 l 5x3f
+EndSplineSet
+Refer: 33 117 N 1 0 0 1 0 0 2
+Substitution2: "fina-1" w.fina
+Substitution2: "medi-1" w.medi
+Substitution2: "init-1" w.init
+EndChar

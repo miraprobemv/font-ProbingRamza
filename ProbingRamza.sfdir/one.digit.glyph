@@ -1,0 +1,26 @@
+StartChar: one.digit
+Encoding: 539 -1 359
+Width: 260
+Flags: W
+HStem: 146 298
+VStem: 86 88<146 444> 98 64<146.156 433.359>
+AnchorPoint: "below" 130 146 basechar 0
+AnchorPoint: "above" 130 444 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+162 246 m 2xa0
+ 162 226 165 164.642578125 174 156 c 1
+ 174 146 l 1
+ 86 146 l 1
+ 86 156 l 1xc0
+ 95 164.642578125 98 225 98 246 c 2
+ 98 344 l 2xa0
+ 98 367 96 424 86 434 c 1
+ 86 444 l 1
+ 174 444 l 1
+ 174 434 l 1xc0
+ 163 421 162 364 162 344 c 2
+ 162 246 l 2xa0
+EndSplineSet
+EndChar

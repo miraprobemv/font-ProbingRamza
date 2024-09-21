@@ -1,0 +1,22 @@
+StartChar: y
+Encoding: 121 121 19
+Width: 530
+Flags: W
+HStem: -242 21G<471.244 527> 146 45<71.9755 149.368> 349 20G<265.915 329.694> 440 21G<251.998 315.675> 532 20G<270.325 334.002>
+VStem: 34 35<192.445 260.5> 181 59<63.3665 158.329>
+LayerCount: 2
+Fore
+SplineSet
+300 440 m 5
+ 228 469.999023438 l 5
+ 228 477.999023438 l 5
+ 286 552 l 5
+ 358 522.000976562 l 5
+ 358 514.000976562 l 5
+ 300 440 l 5
+EndSplineSet
+Refer: 25 234 N 1 0 0 1 0 0 2
+Substitution2: "fina-1" y.fina
+Substitution2: "medi-1" y.medi
+Substitution2: "init-1" y.init
+EndChar

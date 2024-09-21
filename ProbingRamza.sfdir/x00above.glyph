@@ -1,0 +1,49 @@
+StartChar: x00above
+Encoding: 549 -1 369
+Width: 0
+Flags: W
+HStem: 500.75 137.5
+VStem: -129 258
+AnchorPoint: "m_above" 0 561 basemark 0
+AnchorPoint: "above" 0 444 mark 0
+AnchorPoint: "m_above" 0 444 mark 0
+LayerCount: 2
+Back
+SplineSet
+-129 860.75 m 25xf0
+ -120 872.75 l 1
+ -1 795.25 l 25
+ 121.5 872.75 l 25
+ 129 860.75 l 17
+ 8 735.25 l 1
+ -7 735.25 l 1
+ -129 860.75 l 25xf0
+-129 626.25 m 25xf0
+ -120 638.25 l 1
+ -1 560.75 l 25
+ 121.5 638.25 l 25
+ 129 626.25 l 17
+ 8 500.75 l 1
+ -7 500.75 l 1
+ -129 626.25 l 25xf0
+-129 743.5 m 25xf0
+ -120 755.5 l 1
+ -1 678 l 25
+ 121.5 755.5 l 25
+ 129 743.5 l 17
+ 8 618 l 1
+ -7 618 l 1
+ -129 743.5 l 25xf0
+EndSplineSet
+Fore
+SplineSet
+-129 626.25 m 25
+ -120 638.25 l 1
+ -1 560.75 l 25
+ 121.5 638.25 l 25
+ 129 626.25 l 17
+ 8 500.75 l 1
+ -7 500.75 l 1
+ -129 626.25 l 25
+EndSplineSet
+EndChar

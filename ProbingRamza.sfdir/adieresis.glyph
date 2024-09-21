@@ -1,0 +1,22 @@
+StartChar: adieresis
+Encoding: 228 228 26
+Width: 590
+Flags: W
+HStem: -241 21G<373 410> 146 45<79.0733 186.5> 496 21G<230 257.605> 680 20G<300 362.483 300 362.483 474 535.778 474 535.778>
+VStem: 34 35<194.911 260.5> 500 82<-82.035 56.3235>
+LayerCount: 2
+Fore
+SplineSet
+306 -28 m 5
+ 234 1.9990234375 l 5
+ 234 9.9990234375 l 5
+ 292 84 l 5
+ 364 54.0009765625 l 5
+ 364 46.0009765625 l 5
+ 306 -28 l 5
+EndSplineSet
+Refer: 7 97 N 1 0 0 1 0 0 2
+Substitution2: "fina-1" adieresis.fina
+Substitution2: "medi-1" adieresis.medi
+Substitution2: "init-1" adieresis.init
+EndChar

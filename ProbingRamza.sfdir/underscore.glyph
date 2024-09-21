@@ -1,0 +1,19 @@
+StartChar: underscore
+Encoding: 95 95 311
+Width: 250
+Flags: W
+HStem: 146 60<0 250>
+VStem: 0 250<146 206>
+LayerCount: 2
+Fore
+SplineSet
+0 146 m 1
+ 0 206 l 5
+ 250 206 l 29
+ 250 146 l 25
+ 0 146 l 1
+EndSplineSet
+Substitution2: "fina-1" underscore.fina
+Substitution2: "medi-1" underscore.medi
+Substitution2: "init-1" underscore.init
+EndChar

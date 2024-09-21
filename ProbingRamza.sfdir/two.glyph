@@ -1,0 +1,45 @@
+StartChar: two
+Encoding: 50 50 351
+Width: 340
+Flags: W
+HStem: 146 298
+VStem: 66 88<146 444> 78 64<146.156 433.359> 186 88<146 444> 198 64<146.156 433.359>
+LayerCount: 2
+Fore
+SplineSet
+262 246 m 6x88
+ 262 226 265 164.642578125 274 156 c 1
+ 274 146 l 1
+ 186 146 l 1
+ 186 156 l 1x90
+ 195 164.642578125 198 225 198 246 c 6
+ 198 344 l 2x88
+ 198 367 196 424 186 434 c 1
+ 186 444 l 1
+ 274 444 l 1
+ 274 434 l 1x90
+ 263 421 262 364 262 344 c 2
+ 262 246 l 6x88
+142 246 m 6xa0
+ 142 226 145 164.642578125 154 156 c 1
+ 154 146 l 1
+ 66 146 l 1
+ 66 156 l 1xc0
+ 75 164.642578125 78 225 78 246 c 6
+ 78 344 l 2xa0
+ 78 367 76 424 66 434 c 1
+ 66 444 l 1
+ 154 444 l 1
+ 154 434 l 1xc0
+ 143 421 142 364 142 344 c 2
+ 142 246 l 6xa0
+EndSplineSet
+MultipleSubs2: "x10e9-1" two.digit x00below
+MultipleSubs2: "x10e8-1" two.digit x0below
+MultipleSubs2: "x000000-1" two.digit x00above x00above x00above
+MultipleSubs2: "x00000-1" two.digit x00above x00above x0above
+MultipleSubs2: "x0000-1" two.digit x00above x00above
+MultipleSubs2: "x000-1" two.digit x00above x0above
+MultipleSubs2: "x00-1" two.digit x00above
+MultipleSubs2: "x0-1" two.digit x0above
+EndChar

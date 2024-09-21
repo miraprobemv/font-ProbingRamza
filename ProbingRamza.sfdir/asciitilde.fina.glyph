@@ -1,0 +1,17 @@
+StartChar: asciitilde.fina
+Encoding: 536 -1 320
+Width: 250
+Flags: W
+HStem: 235 33<40 210>
+VStem: 40 170<235 268>
+LayerCount: 2
+Fore
+SplineSet
+0 146 m 1
+ -68 186 l 1
+ -68 206 l 1
+ 250 206 l 21
+ 250 146 l 13
+ 0 146 l 1
+EndSplineSet
+EndChar

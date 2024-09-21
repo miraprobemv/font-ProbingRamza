@@ -1,0 +1,18 @@
+StartChar: asciitilde.medi
+Encoding: 535 -1 319
+Width: 320
+Flags: W
+HStem: 235 33<40 210>
+VStem: 40 170<235 268>
+LayerCount: 2
+Fore
+SplineSet
+0 146 m 1
+ -68 186 l 5
+ -68 206 l 5
+ 252 206 l 17
+ 320 166 l 1
+ 320 146 l 9
+ 0 146 l 1
+EndSplineSet
+EndChar

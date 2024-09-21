@@ -1,0 +1,23 @@
+StartChar: x0above
+Encoding: 548 -1 368
+Width: 0
+Flags: W
+HStem: 500 22<-25.4046 27.4062> 600 22<-25.4046 27.4062>
+VStem: -60 23<533.029 588.971> 41 23<535.377 586.623>
+AnchorPoint: "above" 0 444 mark 0
+AnchorPoint: "m_above" 0 444 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-37 561 m 0
+ -37 540 -21 522 0 522 c 0
+ 21 522 41 540 41 561 c 0
+ 41 582 21 600 0 600 c 0
+ -21 600 -37 582 -37 561 c 0
+-60 561 m 0
+ -60 595 -34 622 0 622 c 0
+ 34 622 64 595 64 561 c 0
+ 64 527 34 500 0 500 c 0
+ -34 500 -60 527 -60 561 c 0
+EndSplineSet
+EndChar

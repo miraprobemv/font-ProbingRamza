@@ -1,0 +1,352 @@
+SplineFontDB: 3.2
+FontName: ProbingRamza
+FullName: Probing Ramza
+FamilyName: ProbingRamza
+Weight: Regular
+Copyright: Copyright (c) 2023, Mira, the Multiverse Probe
+UComments: "2023-9-27: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -150
+UnderlineWidth: 50
+Ascent: 764
+Descent: 260
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 998 -886551286 21896]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1695763708
+ModificationTime: 1702465550
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 492
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 492
+OS2WinAscent: 200
+OS2WinAOffset: 1
+OS2WinDescent: 200
+OS2WinDOffset: 1
+HheadAscent: 200
+HheadAOffset: 1
+HheadDescent: -200
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 2 0 0 "breakcapital" { "breakcapital-1"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "liga" { "liga-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "init" { "init-1" ("init") } ['init' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "medi" { "medi-1" ("medi") } ['medi' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "fina" { "fina-1" ("fina") } ['fina' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "desc" { "desc-1" ("desc") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "calt" { "calt-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 5 0 0 "caltdesc" { "caltdesc-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "0hidden" { "0hidden-1" ("hidden") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x0" { "x0-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x00" { "x00-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x000" { "x000-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x0000" { "x0000-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x00000" { "x00000-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x000000" { "x000000-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x10e8" { "x10e8-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 0 0 "x10e9" { "x10e9-1"  } ['stch' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "number0" { "number0-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "numberdigits" { "numberdigits-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "digitbelow" { "digitbelow-1" ("below") } ['aalt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "numberdigitbelow" { "numberdigitbelow-1"  } ['calt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "mark" { "mark-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 0 0 "mtom" { "mtom-1"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: class "numberdigitbelow-1" 3 3 3 1
+  Class: 21 two.digit three.digit
+  Class: 16 x0below x00below
+  BClass: 21 two.digit three.digit
+  BClass: 16 x0below x00below
+  FClass: 21 two.digit three.digit
+  FClass: 16 x0below x00below
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 2
+ 1
+  SeqLookup: 0 "digitbelow"
+  ClassNames: "All_Others" "N" "M"
+  BClassNames: "All_Others" "N" "M"
+  FClassNames: "All_Others" "N" "M"
+EndFPST
+ChainSub2: class "numberdigits-1" 2 2 2 8
+  Class: 56 one two three four five six seven eight nine zero.hidden
+  BClass: 56 one two three four five six seven eight nine zero.hidden
+  FClass: 56 one two three four five six seven eight nine zero.hidden
+ 1 0 8
+  ClsList: 1
+  BClsList:
+  FClsList: 1 1 1 1 1 1 1 1
+ 1
+  SeqLookup: 0 "x10e9"
+ 1 0 7
+  ClsList: 1
+  BClsList:
+  FClsList: 1 1 1 1 1 1 1
+ 1
+  SeqLookup: 0 "x10e8"
+ 1 0 6
+  ClsList: 1
+  BClsList:
+  FClsList: 1 1 1 1 1 1
+ 1
+  SeqLookup: 0 "x000000"
+ 1 0 5
+  ClsList: 1
+  BClsList:
+  FClsList: 1 1 1 1 1
+ 1
+  SeqLookup: 0 "x00000"
+ 1 0 4
+  ClsList: 1
+  BClsList:
+  FClsList: 1 1 1 1
+ 1
+  SeqLookup: 0 "x0000"
+ 1 0 3
+  ClsList: 1
+  BClsList:
+  FClsList: 1 1 1
+ 1
+  SeqLookup: 0 "x000"
+ 1 0 2
+  ClsList: 1
+  BClsList:
+  FClsList: 1 1
+ 1
+  SeqLookup: 0 "x00"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 1
+ 1
+  SeqLookup: 0 "x0"
+  ClassNames: "All_Others" "N"
+  BClassNames: "All_Others" "N"
+  FClassNames: "All_Others" "N"
+EndFPST
+ChainSub2: class "number0-1" 3 3 3 4
+  Class: 16 zero zero.hidden
+  Class: 44 one two three four five six seven eight nine
+  BClass: 16 zero zero.hidden
+  BClass: 44 one two three four five six seven eight nine
+  FClass: 16 zero zero.hidden
+  FClass: 44 one two three four five six seven eight nine
+ 1 1 0
+  ClsList: 1
+  BClsList: 2
+  FClsList:
+ 1
+  SeqLookup: 0 "0hidden"
+ 1 1 0
+  ClsList: 1
+  BClsList: 1
+  FClsList:
+ 1
+  SeqLookup: 0 "0hidden"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 1
+ 1
+  SeqLookup: 0 "0hidden"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 2
+ 1
+  SeqLookup: 0 "0hidden"
+  ClassNames: "All_Others" "Z" "N"
+  BClassNames: "All_Others" "Z" "N"
+  FClassNames: "All_Others" "Z" "N"
+EndFPST
+ContextSub2: class "caltdesc-1" 3 3 3 2
+  Class: 470 a.init a.medi a.fina f.init f.medi f.fina k.init k.medi k.fina l.init l.medi l.fina p.init p.medi p.fina s.init s.medi s.fina t.init t.medi t.fina z.init z.medi z.fina adieresis.init adieresis.medi adieresis.fina d_z.init d_z.medi d_z.fina t_s.init t_s.medi t_s.fina t_y.init t_y.medi t_y.fina z_h.init z_h.medi z_h.fina a_a.init a_a.medi a_a.fina adieresis_adieresis.init adieresis_adieresis.medi adieresis_adieresis.fina asciitilde.init asciitilde.medi asciitilde.fina
+  Class: 371 f_f.init f_f.medi f_f.fina k_k.init k_k.medi k_k.fina l_l.init l_l.medi l_l.fina p_p.init p_p.medi p_p.fina r_r.init r_r.medi r_r.fina s_s.init s_s.medi s_s.fina t_t.init t_t.medi t_t.fina z_z.init z_z.medi z_z.fina d_z_d_z.init d_z_d_z.medi d_z_d_z.fina t_s_t_s.init t_s_t_s.medi t_s_t_s.fina t_y_t_y.init t_y_t_y.medi t_y_t_y.fina z_h_z_h.init z_h_z_h.medi z_h_z_h.fina
+  BClass: 470 a.init a.medi a.fina f.init f.medi f.fina k.init k.medi k.fina l.init l.medi l.fina p.init p.medi p.fina s.init s.medi s.fina t.init t.medi t.fina z.init z.medi z.fina adieresis.init adieresis.medi adieresis.fina d_z.init d_z.medi d_z.fina t_s.init t_s.medi t_s.fina t_y.init t_y.medi t_y.fina z_h.init z_h.medi z_h.fina a_a.init a_a.medi a_a.fina adieresis_adieresis.init adieresis_adieresis.medi adieresis_adieresis.fina asciitilde.init asciitilde.medi asciitilde.fina
+  BClass: 371 f_f.init f_f.medi f_f.fina k_k.init k_k.medi k_k.fina l_l.init l_l.medi l_l.fina p_p.init p_p.medi p_p.fina r_r.init r_r.medi r_r.fina s_s.init s_s.medi s_s.fina t_t.init t_t.medi t_t.fina z_z.init z_z.medi z_z.fina d_z_d_z.init d_z_d_z.medi d_z_d_z.fina t_s_t_s.init t_s_t_s.medi t_s_t_s.fina t_y_t_y.init t_y_t_y.medi t_y_t_y.fina z_h_z_h.init z_h_z_h.medi z_h_z_h.fina
+  FClass: 470 a.init a.medi a.fina f.init f.medi f.fina k.init k.medi k.fina l.init l.medi l.fina p.init p.medi p.fina s.init s.medi s.fina t.init t.medi t.fina z.init z.medi z.fina adieresis.init adieresis.medi adieresis.fina d_z.init d_z.medi d_z.fina t_s.init t_s.medi t_s.fina t_y.init t_y.medi t_y.fina z_h.init z_h.medi z_h.fina a_a.init a_a.medi a_a.fina adieresis_adieresis.init adieresis_adieresis.medi adieresis_adieresis.fina asciitilde.init asciitilde.medi asciitilde.fina
+  FClass: 371 f_f.init f_f.medi f_f.fina k_k.init k_k.medi k_k.fina l_l.init l_l.medi l_l.fina p_p.init p_p.medi p_p.fina r_r.init r_r.medi r_r.fina s_s.init s_s.medi s_s.fina t_t.init t_t.medi t_t.fina z_z.init z_z.medi z_z.fina d_z_d_z.init d_z_d_z.medi d_z_d_z.fina t_s_t_s.init t_s_t_s.medi t_s_t_s.fina t_y_t_y.init t_y_t_y.medi t_y_t_y.fina z_h_z_h.init z_h_z_h.medi z_h_z_h.fina
+ 2 0 0
+  ClsList: 1 1
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "desc"
+ 2 0 0
+  ClsList: 2 1
+  BClsList:
+  FClsList:
+ 1
+  SeqLookup: 1 "desc"
+  ClassNames: "All_Others" "A" "LA"
+  BClassNames: "All_Others" "A" "LA"
+  FClassNames: "All_Others" "A" "LA"
+EndFPST
+ChainSub2: class "calt-1" 3 3 3 5
+  Class: 387 quotesingle underscore a b c d e f g h i k l m n o p r s t u v w y z asciitilde adieresis ecircumflex edieresis odieresis udieresis c_h c_y d_y d_z t_s t_y z_h a_a b_b c_c d_d e_e f_f g_g h_h i_i k_k l_l m_m n_n o_o p_p r_r s_s t_t u_u v_v w_w y_y z_z adieresis_adieresis edieresis_edieresis odieresis_odieresis udieresis_udieresis c_h_c_h c_y_c_y d_y_d_y d_z_d_z t_s_t_s t_y_t_y z_h_z_h
+  Class: 2141 a.init a.medi a.fina b.init b.medi b.fina c.init c.medi c.fina d.init d.medi d.fina e.init e.medi e.fina f.init f.medi f.fina g.init g.medi g.fina h.init h.medi h.fina i.init i.medi i.fina k.init k.medi k.fina l.init l.medi l.fina m.init m.medi m.fina n.init n.fina n.medi o.init o.medi o.fina p.init p.medi p.fina r.init r.medi r.fina s.init s.medi s.fina t.init t.medi t.fina u.init u.medi u.fina v.init v.medi v.fina w.init w.medi w.fina y.init y.medi y.fina z.init z.medi z.fina adieresis.init adieresis.medi adieresis.fina edieresis.init edieresis.medi edieresis.fina odieresis.init odieresis.medi odieresis.fina udieresis.init udieresis.medi udieresis.fina c_h.init c_h.medi c_h.fina c_y.init c_y.medi c_y.fina d_y.init d_y.medi d_y.fina d_z.init d_z.medi d_z.fina t_s.init t_s.medi t_s.fina t_y.init t_y.medi t_y.fina z_h.init z_h.medi z_h.fina a_a.init a_a.medi a_a.fina b_b.init b_b.medi b_b.fina c_c.init c_c.medi c_c.fina d_d.init d_d.medi d_d.fina e_e.init e_e.medi e_e.fina f_f.init f_f.medi f_f.fina g_g.init g_g.medi g_g.fina h_h.init h_h.medi h_h.fina i_i.init i_i.medi i_i.fina k_k.init k_k.medi k_k.fina l_l.init l_l.medi l_l.fina m_m.init m_m.medi m_m.fina n_n.init n_n.medi n_n.fina o_o.init o_o.medi o_o.fina p_p.init p_p.medi p_p.fina r_r.init r_r.medi r_r.fina s_s.init s_s.medi s_s.fina t_t.init t_t.medi t_t.fina u_u.init u_u.medi u_u.fina v_v.init v_v.medi v_v.fina w_w.init w_w.medi w_w.fina y_y.init y_y.medi y_y.fina z_z.init z_z.medi z_z.fina adieresis_adieresis.init adieresis_adieresis.medi adieresis_adieresis.fina edieresis_edieresis.init edieresis_edieresis.medi edieresis_edieresis.fina odieresis_odieresis.init odieresis_odieresis.medi odieresis_odieresis.fina udieresis_udieresis.init udieresis_udieresis.medi udieresis_udieresis.fina c_h_c_h.init c_h_c_h.medi c_h_c_h.fina c_y_c_y.init c_y_c_y.medi c_y_c_y.fina d_y_d_y.init d_y_d_y.medi d_y_d_y.fina d_z_d_z.init d_z_d_z.medi d_z_d_z.fina t_s_t_s.init t_s_t_s.medi t_s_t_s.fina t_y_t_y.init t_y_t_y.medi t_y_t_y.fina z_h_z_h.init z_h_z_h.medi z_h_z_h.fina underscore.init underscore.medi underscore.fina asciitilde.init asciitilde.medi asciitilde.fina
+  BClass: 387 quotesingle underscore a b c d e f g h i k l m n o p r s t u v w y z asciitilde adieresis ecircumflex edieresis odieresis udieresis c_h c_y d_y d_z t_s t_y z_h a_a b_b c_c d_d e_e f_f g_g h_h i_i k_k l_l m_m n_n o_o p_p r_r s_s t_t u_u v_v w_w y_y z_z adieresis_adieresis edieresis_edieresis odieresis_odieresis udieresis_udieresis c_h_c_h c_y_c_y d_y_d_y d_z_d_z t_s_t_s t_y_t_y z_h_z_h
+  BClass: 2141 a.init a.medi a.fina b.init b.medi b.fina c.init c.medi c.fina d.init d.medi d.fina e.init e.medi e.fina f.init f.medi f.fina g.init g.medi g.fina h.init h.medi h.fina i.init i.medi i.fina k.init k.medi k.fina l.init l.medi l.fina m.init m.medi m.fina n.init n.fina n.medi o.init o.medi o.fina p.init p.medi p.fina r.init r.medi r.fina s.init s.medi s.fina t.init t.medi t.fina u.init u.medi u.fina v.init v.medi v.fina w.init w.medi w.fina y.init y.medi y.fina z.init z.medi z.fina adieresis.init adieresis.medi adieresis.fina edieresis.init edieresis.medi edieresis.fina odieresis.init odieresis.medi odieresis.fina udieresis.init udieresis.medi udieresis.fina c_h.init c_h.medi c_h.fina c_y.init c_y.medi c_y.fina d_y.init d_y.medi d_y.fina d_z.init d_z.medi d_z.fina t_s.init t_s.medi t_s.fina t_y.init t_y.medi t_y.fina z_h.init z_h.medi z_h.fina a_a.init a_a.medi a_a.fina b_b.init b_b.medi b_b.fina c_c.init c_c.medi c_c.fina d_d.init d_d.medi d_d.fina e_e.init e_e.medi e_e.fina f_f.init f_f.medi f_f.fina g_g.init g_g.medi g_g.fina h_h.init h_h.medi h_h.fina i_i.init i_i.medi i_i.fina k_k.init k_k.medi k_k.fina l_l.init l_l.medi l_l.fina m_m.init m_m.medi m_m.fina n_n.init n_n.medi n_n.fina o_o.init o_o.medi o_o.fina p_p.init p_p.medi p_p.fina r_r.init r_r.medi r_r.fina s_s.init s_s.medi s_s.fina t_t.init t_t.medi t_t.fina u_u.init u_u.medi u_u.fina v_v.init v_v.medi v_v.fina w_w.init w_w.medi w_w.fina y_y.init y_y.medi y_y.fina z_z.init z_z.medi z_z.fina adieresis_adieresis.init adieresis_adieresis.medi adieresis_adieresis.fina edieresis_edieresis.init edieresis_edieresis.medi edieresis_edieresis.fina odieresis_odieresis.init odieresis_odieresis.medi odieresis_odieresis.fina udieresis_udieresis.init udieresis_udieresis.medi udieresis_udieresis.fina c_h_c_h.init c_h_c_h.medi c_h_c_h.fina c_y_c_y.init c_y_c_y.medi c_y_c_y.fina d_y_d_y.init d_y_d_y.medi d_y_d_y.fina d_z_d_z.init d_z_d_z.medi d_z_d_z.fina t_s_t_s.init t_s_t_s.medi t_s_t_s.fina t_y_t_y.init t_y_t_y.medi t_y_t_y.fina z_h_z_h.init z_h_z_h.medi z_h_z_h.fina underscore.init underscore.medi underscore.fina asciitilde.init asciitilde.medi asciitilde.fina
+  FClass: 387 quotesingle underscore a b c d e f g h i k l m n o p r s t u v w y z asciitilde adieresis ecircumflex edieresis odieresis udieresis c_h c_y d_y d_z t_s t_y z_h a_a b_b c_c d_d e_e f_f g_g h_h i_i k_k l_l m_m n_n o_o p_p r_r s_s t_t u_u v_v w_w y_y z_z adieresis_adieresis edieresis_edieresis odieresis_odieresis udieresis_udieresis c_h_c_h c_y_c_y d_y_d_y d_z_d_z t_s_t_s t_y_t_y z_h_z_h
+  FClass: 2141 a.init a.medi a.fina b.init b.medi b.fina c.init c.medi c.fina d.init d.medi d.fina e.init e.medi e.fina f.init f.medi f.fina g.init g.medi g.fina h.init h.medi h.fina i.init i.medi i.fina k.init k.medi k.fina l.init l.medi l.fina m.init m.medi m.fina n.init n.fina n.medi o.init o.medi o.fina p.init p.medi p.fina r.init r.medi r.fina s.init s.medi s.fina t.init t.medi t.fina u.init u.medi u.fina v.init v.medi v.fina w.init w.medi w.fina y.init y.medi y.fina z.init z.medi z.fina adieresis.init adieresis.medi adieresis.fina edieresis.init edieresis.medi edieresis.fina odieresis.init odieresis.medi odieresis.fina udieresis.init udieresis.medi udieresis.fina c_h.init c_h.medi c_h.fina c_y.init c_y.medi c_y.fina d_y.init d_y.medi d_y.fina d_z.init d_z.medi d_z.fina t_s.init t_s.medi t_s.fina t_y.init t_y.medi t_y.fina z_h.init z_h.medi z_h.fina a_a.init a_a.medi a_a.fina b_b.init b_b.medi b_b.fina c_c.init c_c.medi c_c.fina d_d.init d_d.medi d_d.fina e_e.init e_e.medi e_e.fina f_f.init f_f.medi f_f.fina g_g.init g_g.medi g_g.fina h_h.init h_h.medi h_h.fina i_i.init i_i.medi i_i.fina k_k.init k_k.medi k_k.fina l_l.init l_l.medi l_l.fina m_m.init m_m.medi m_m.fina n_n.init n_n.medi n_n.fina o_o.init o_o.medi o_o.fina p_p.init p_p.medi p_p.fina r_r.init r_r.medi r_r.fina s_s.init s_s.medi s_s.fina t_t.init t_t.medi t_t.fina u_u.init u_u.medi u_u.fina v_v.init v_v.medi v_v.fina w_w.init w_w.medi w_w.fina y_y.init y_y.medi y_y.fina z_z.init z_z.medi z_z.fina adieresis_adieresis.init adieresis_adieresis.medi adieresis_adieresis.fina edieresis_edieresis.init edieresis_edieresis.medi edieresis_edieresis.fina odieresis_odieresis.init odieresis_odieresis.medi odieresis_odieresis.fina udieresis_udieresis.init udieresis_udieresis.medi udieresis_udieresis.fina c_h_c_h.init c_h_c_h.medi c_h_c_h.fina c_y_c_y.init c_y_c_y.medi c_y_c_y.fina d_y_d_y.init d_y_d_y.medi d_y_d_y.fina d_z_d_z.init d_z_d_z.medi d_z_d_z.fina t_s_t_s.init t_s_t_s.medi t_s_t_s.fina t_y_t_y.init t_y_t_y.medi t_y_t_y.fina z_h_z_h.init z_h_z_h.medi z_h_z_h.fina underscore.init underscore.medi underscore.fina asciitilde.init asciitilde.medi asciitilde.fina
+ 1 1 1
+  ClsList: 1
+  BClsList: 1
+  FClsList: 1
+ 1
+  SeqLookup: 0 "medi"
+ 1 1 1
+  ClsList: 1
+  BClsList: 2
+  FClsList: 1
+ 1
+  SeqLookup: 0 "medi"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 1
+ 1
+  SeqLookup: 0 "init"
+ 1 1 0
+  ClsList: 1
+  BClsList: 2
+  FClsList:
+ 1
+  SeqLookup: 0 "fina"
+ 1 1 0
+  ClsList: 1
+  BClsList: 1
+  FClsList:
+ 1
+  SeqLookup: 0 "fina"
+  ClassNames: "All_Others" "C" "M"
+  BClassNames: "All_Others" "C" "M"
+  FClassNames: "All_Others" "C" "M"
+EndFPST
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 8 2
+BeginPrivate: 0
+EndPrivate
+Grid
+-51 964 m 5
+ 1054 964 l 1029
+-66 15 m 1
+ 636 251 l 1025
+-12 221 m 1
+ 690 -65 l 1025
+479 -258 m 1
+ 834 210 l 1025
+150 -176 m 1
+ 852 60 l 1025
+150 -46 m 1
+ 852 190 l 1025
+448 -106 m 1
+ 803 362 l 1025
+-44 209 m 1
+ 1052 209 l 1025
+460 750 m 1
+ 1020 194 l 1025
+313 -41 m 1
+ 668 427 l 1025
+376 556 m 1
+ 936 0 l 1025
+-54 588 m 1
+ 1058 588 l 1025
+73 558 m 1
+ 775 302 l 1025
+45 331 m 1
+ 747 95 l 1025
+394 -227 m 1
+ 749 241 l 1025
+-55 415 m 1
+ 153 689 l 1025
+123 608 m 1
+ 683 52 l 1025
+418 206 m 1
+ 510 160 l 1
+ 500 146 l 1
+ 410 191 l 1
+ 418 206 l 1
+-34 402 m 1
+ 526 -154 l 1025
+74 500 m 1
+ 634 -56 l 1025
+92 518 m 1
+ 652 -38 l 1025
+401 414 m 1
+ 493 369 l 1
+ 483 355 l 1
+ 393 399 l 1
+ 401 414 l 1
+32 490 m 1
+ 266 140 l 1025
+2 466 m 1
+ 236 116 l 1025
+-38 38 m 1
+ 664 -248 l 1025
+209 759 m 1
+ 911 513 l 1025
+-12 151 m 1
+ 690 -135 l 1025
+-79 -46 m 1
+ 623 -332 l 1025
+-79 -28 m 1
+ 623 -314 l 1025
+61 412 m 1
+ 763 176 l 1025
+-72 205 m 1
+ 10 160 l 1
+ 0 146 l 1
+ -80 190 l 1
+ -72 205 l 1
+-32 -236 m 1
+ 1040 -236 l 1025
+-44 364 m 1
+ 1052 364 l 1025
+-44 284 m 1
+ 1052 284 l 1025
+-44 146 m 1
+ 1052 146 l 1025
+119 -83 m 1
+ 474 385 l 1025
+72 167 m 1
+ 280 441 l 1025
+152 -109 m 1
+ 507 359 l 1025
+-22 349 m 1
+ 186 623 l 1025
+184 175 m 1
+ 392 449 l 1025
+76 266 m 1
+ 284 540 l 1025
+-32 -206 m 1
+ 1040 -206 l 1025
+-54 668 m 1
+ 1058 668 l 1025
+-44 444 m 1
+ 1052 444 l 1025
+-51 700 m 1
+ 1054 700 l 1025
+EndSplineSet
+AnchorClass2: "m_right" "mtom-1" "m_below" "mtom-1" "m_above" "mtom-1" "right" "mark-1" "below" "mark-1" "above" "mark-1"
+EndSplineFont

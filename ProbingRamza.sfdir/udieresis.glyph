@@ -1,0 +1,22 @@
+StartChar: udieresis
+Encoding: 252 252 36
+Width: 710
+Flags: W
+HStem: 142 66<509.529 608.746> 146 45<71.3763 164.319 254.547 352.931> 336 28<269.581 342.596>
+VStem: 34 33<193.21 255.5> 357.438 69.832<225.368 316.241> 658 7<283.047 288>
+LayerCount: 2
+Fore
+SplineSet
+306 -28 m 5x3c
+ 234 1.9990234375 l 5
+ 234 9.9990234375 l 5
+ 292 84 l 5
+ 364 54.0009765625 l 5
+ 364 46.0009765625 l 5
+ 306 -28 l 5x3c
+EndSplineSet
+Refer: 33 117 N 1 0 0 1 0 0 2
+Substitution2: "fina-1" udieresis.fina
+Substitution2: "medi-1" udieresis.medi
+Substitution2: "init-1" udieresis.init
+EndChar

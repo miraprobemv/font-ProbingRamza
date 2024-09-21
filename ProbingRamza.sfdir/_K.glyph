@@ -1,0 +1,19 @@
+StartChar: K
+Encoding: 75 75 329
+Width: 250
+Flags: W
+HStem: 219.001 112
+VStem: 60 130
+LayerCount: 2
+Fore
+SplineSet
+132 219.000976562 m 5
+ 60 249 l 5
+ 60 257 l 5
+ 118 331.000976562 l 5
+ 190 301.001953125 l 5
+ 190 293.001953125 l 5
+ 132 219.000976562 l 5
+EndSplineSet
+MultipleSubs2: "breakcapital-1" headermark k
+EndChar
